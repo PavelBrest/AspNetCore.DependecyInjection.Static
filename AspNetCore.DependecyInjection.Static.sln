@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.DependecyInjection.Static", "AspNetCore.DependecyInjection.Static\AspNetCore.DependecyInjection.Static.csproj", "{BA4D0D51-1C0E-437D-901C-5A375F1D661E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDependecySample", "Samples\ConsoleDependecySample\ConsoleDependecySample.csproj", "{20C2C3C5-EE2C-4641-8322-D733AB33C4F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4D0D51-1C0E-437D-901C-5A375F1D661E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4D0D51-1C0E-437D-901C-5A375F1D661E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4D0D51-1C0E-437D-901C-5A375F1D661E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4D0D51-1C0E-437D-901C-5A375F1D661E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C2C3C5-EE2C-4641-8322-D733AB33C4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C2C3C5-EE2C-4641-8322-D733AB33C4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C2C3C5-EE2C-4641-8322-D733AB33C4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C2C3C5-EE2C-4641-8322-D733AB33C4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
